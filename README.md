@@ -1,0 +1,2 @@
+# nodeignorefile
+nodeignorefile
